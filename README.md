@@ -1,1 +1,1 @@
-# MySQL-Eventner-Training
+# MySQL-Eventner-Training Complete course by Tausif Ul Rahman (cwtausif)
